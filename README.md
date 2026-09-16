@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/интернет-не%20нужен-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/framework-нет%2C%20чистый%20js-orange?style=for-the-badge" />
 
+### 🔗 [ЖИВАЯ ДЕМКА — открой прямо в браузере](https://karaseklobys.github.io/papich-wheel/)
+
 </div>
 
 ---
